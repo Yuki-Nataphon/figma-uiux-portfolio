@@ -18,3 +18,6 @@
 ### 4. Prototype เว็บไซต์ Responsive Design
 - **รายละเอียด:** ดีไซน์ Layout สำหรับ Desktop และ Mobile
 -  **เปิดดู Figma:** [คลิกที่นี่เพื่อทดลองเล่น](https://www.figma.com/design/lUuga0j1tfJF2TaGl9rTOC/Web-Application-with-Figma?node-id=2-58&t=8yKkL84MOW4EuztG-1)
+
+## 📄 Curriculum Vitae (CV)
+- 📥 **ดู/ดาวน์โหลด CV:** [คลิกเปิดไฟล์ CV-Nataphon.pdf](./CV-Nataphon.pdf)

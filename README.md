@@ -5,7 +5,7 @@
 
 ### 1. Prototype เว็บจองห้องเรียน
 - **รายละเอียด:** ระบบจองห้องเรียน ครอบคลุม Flow ตั้งแต่ Login, Booking Process ถึง Finish State
--  **เปิดดู Figma Prototype:** [คลิกที่นี่เพื่อทดลองเล่น](https://www.figma.com/proto/BmNIL7zXVqqXPAubFgurf/Work-group?node-id=8-748&starting-point-node-id=8%3A748&t=1BvKBPuo6dRSGT5A-1)
+-  **เปิดดู Figma Prototype:** [คลิกที่นี่เพื่อทดลองเล่น](https://www.figma.com/design/BmNIL7zXXVqqXPAubFgurf/Work-group?node-id=0-1&t=JOdyxVXOiQQ02PNC-1)
 
 ### 2. Prototype แอปพลิเคชัน Disney+ Concept
 - **รายละเอียด:** ออกแบบ Mobile Application UI พร้อมเชื่อมต่อ Navigation Flow
